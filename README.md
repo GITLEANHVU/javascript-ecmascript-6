@@ -1,6 +1,4 @@
-"#javascript-ecmascript-6"
-#Learn JavaScript ES 6
-
+# Learn JavaScript ES 6
 ## Variable
 ## Arrow Function
 ## Default Parameters
